@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background:linear-gradient(rgb(7, 7, 164),rgb(139, 13, 139))
+}
+
+button {
+    margin: auto 7px;
+    padding: 5px 5px;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    border-radius: 60px;
+    font-weight: bold;
+}
+
+.To-Do{
+    text-align: center;
+    width: auto;
+    height: auto;
+    font-size: 19px;
+    color: white
+}
+
+.heightinput{
+    height: 30px;
+}
+
+ul{
+    list-style-type:none;
+    padding: 0;
+}
+
